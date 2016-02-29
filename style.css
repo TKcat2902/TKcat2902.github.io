@@ -1,3 +1,38 @@
 @charset "UTF-8";
 
 body	{font-family: 'メイリオ', 'Hiragino Kaku Gothic Pro', sans-serif;}
+
+
+/* ヘッダー */
+.header	{padding: 20px;
+	background-color: #ffffff;
+	text-align: center;}
+
+.header h1	{margin: 0;
+	font-size: 20px;
+	line-height: 1;}
+
+.header h1 a	{color: #00000;}
+
+
+.header .logo	{margin: 0 0 10px 0;
+	vertical-align: bottom;}
+
+
+
+
+
+.menu {padding: 20px;
+	background-color: #ffffff;
+	text-align: center;}
+	
+.menu p {font-size: 12px;}
+
+
+
+
+
+
+.footer {padding: 12px;
+	background-color: #ffffff;
+	text-align: center;}
