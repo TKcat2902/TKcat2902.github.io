@@ -14,7 +14,7 @@ body	{font-family: 'メイリオ', 'Hiragino Kaku Gothic Pro', sans-serif;}
 	background-color: #ffffff;
 	text-align: center;}
 	
-.header h1 {font-size: 20px;}
+.header h1 {font-size: 25px;}
 	
 	
 /* メニュー */
@@ -35,6 +35,11 @@ body	{font-family: 'メイリオ', 'Hiragino Kaku Gothic Pro', sans-serif;}
 
 #profile p {font-size: 14px;}
 
+#sensei {text-align: right;}
+
+
+
+
 #Applications{
 	margin:15px;
 }
@@ -44,8 +49,8 @@ body	{font-family: 'メイリオ', 'Hiragino Kaku Gothic Pro', sans-serif;}
 /* フッター */
 
 .footer {
-	margin: 30px;
-	padding: 12px;
+	margin: 0px;
+	padding: 0px;
 	background-color: #ffffff;
 	text-align: center;}
 	
